@@ -1,0 +1,2 @@
+(load-file "~/.emacs.d/color-theme-6.6.0/themes/color-theme-library.el")
+(color-theme-charcoal-black)
